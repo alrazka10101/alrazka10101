@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning for HTML & CSS
 - 💞️ I’m looking to collaborate on your community
 - 📫 How to reach me on my email kadalkomersilan@gmail.com
-- 😄 Pronouns: have fun
+- 😄 Pronouns: razka
 - ⚡ Fun fact: respected
 
 <!---
